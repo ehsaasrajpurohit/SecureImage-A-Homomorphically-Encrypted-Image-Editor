@@ -4,6 +4,6 @@ This project focuses on securing media using homomorphic encryption implemented 
 
 ## Techstack
 
-Python
-Pickle
-Paillier Encryption
+- Python
+- Pickle
+- Paillier Encryption
